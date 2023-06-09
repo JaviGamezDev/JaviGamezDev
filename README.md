@@ -15,6 +15,5 @@ Some repositories for you to peep into:
 - Yoga app: <a href="https://github.com/fromzerotoheroquest/Yoga-App">YogUp</a>
 - Game: <a href="https://github.com/fromzerotoheroquest/FreakyTrivia">FreakyTrivia</a>
 
-You can check my full portfolio at: <a href="https://www.javigamez.eu/">javigamez.eu</a>
+My full portfolio can be seen at: <a href="https://www.javigamez.eu/">javigamez.eu</a>
 
-<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
