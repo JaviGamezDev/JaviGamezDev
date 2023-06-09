@@ -11,10 +11,9 @@ Some repositories for you to peep into:
 - Yoga app: <a href="https://github.com/fromzerotoheroquest/Yoga-App">YogUp</a>
 - Game: <a href="https://github.com/fromzerotoheroquest/FreakyTrivia">FreakyTrivia</a>
 - Weather app: <a href="https://github.com/fromzerotoheroquest/Findy">Findy</a>
-- Locool, marketplace:
-    - Deployment: <a href="https://tangerine-starburst-231404.netlify.app/app">Locool deployed</a>
-        - Frontend: <a href="https://github.com/BackFrontProject/Locool-FrontEnd">Frontend repo</a>
-        - Backend: <a href="https://github.com/BackFrontProject/Locool-BackEnd">Frontend repo</a>
+- Locool, marketplace: <a href="https://tangerine-starburst-231404.netlify.app/app">Locool deployed</a>
+    - Frontend: <a href="https://github.com/BackFrontProject/Locool-FrontEnd">Frontend repo</a>
+    - Backend: <a href="https://github.com/BackFrontProject/Locool-BackEnd">Frontend repo</a>
 
 You can check my portfolio at: <a href="https://www.javigamez.eu/">javigamez.eu</a>
 
