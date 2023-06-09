@@ -8,12 +8,16 @@ Currently interested in making a career shift towards web development.
 
 Some repositories for you to peep into:
 - Locool, marketplace: <a href="https://tangerine-starburst-231404.netlify.app/app">Locool deployed</a>
-    - Frontend: <a href="https://github.com/BackFrontProject/Locool-FrontEnd">Frontend repo</a>
-    - Backend: <a href="https://github.com/BackFrontProject/Locool-BackEnd">Frontend repo</a>
-- Weather app: <a href="https://github.com/fromzerotoheroquest/Findy">Findy</a>
-- Game: <a href="https://github.com/fromzerotoheroquest/ktw">Kill the Wasp</a>
-- Yoga app: <a href="https://github.com/fromzerotoheroquest/Yoga-App">YogUp</a>
-- Game: <a href="https://github.com/fromzerotoheroquest/FreakyTrivia">FreakyTrivia</a>
+    - <a href="https://github.com/BackFrontProject/Locool-FrontEnd">Frontend repo</a>
+    - <a href="https://github.com/BackFrontProject/Locool-BackEnd">Frontend repo</a>
+- Weather app: <a href="https://appfindy.netlify.app/">Findy deployed</a>
+    - <a href="https://github.com/fromzerotoheroquest/Findy">Findy repo</a>
+- Game: <a href="https://javigamez.eu/ktw/">Kill the Wasp deployed</a>
+    - <a href="https://github.com/fromzerotoheroquest/ktw">Kill the Wasp repo</a>
+- Yoga app: <a href="https://javigamez.eu/yogup/">YogUp deployed</a>
+    - <a href="https://github.com/fromzerotoheroquest/Yoga-App">YogUp repo</a>
+- Game: <a href="https://javigamez.eu/freakytrivia/">FreakyTrivia deployed</a>
+    - <a href="https://github.com/fromzerotoheroquest/FreakyTrivia">FreakyTrivia repo </a>
 
 My full portfolio can be seen at: <a href="https://www.javigamez.eu/">javigamez.eu</a>
 
