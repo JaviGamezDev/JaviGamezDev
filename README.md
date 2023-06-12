@@ -9,7 +9,7 @@ Currently interested in making a career shift towards web development.
 Some repositories for you to peep into:
 - Locool, marketplace: <a href="https://tangerine-starburst-231404.netlify.app/app">Locool deployed</a>
     - <a href="https://github.com/BackFrontProject/Locool-FrontEnd">Frontend repo</a>
-    - <a href="https://github.com/BackFrontProject/Locool-BackEnd">Frontend repo</a>
+    - <a href="https://github.com/BackFrontProject/Locool-BackEnd">Backtend repo</a>
 - Weather app: <a href="https://appfindy.netlify.app/">Findy deployed</a>
     - <a href="https://github.com/fromzerotoheroquest/Findy">Findy repo</a>
 - Game: <a href="https://javigamez.eu/ktw/">Kill the Wasp deployed</a>
