@@ -19,5 +19,7 @@ Some repositories for you to peep into:
 - Game: <a href="https://javigamez.eu/freakytrivia/">FreakyTrivia deployed</a>
     - <a href="https://github.com/fromzerotoheroquest/FreakyTrivia">FreakyTrivia repo </a>
 
+Skills: HTML, CSS, JS, Node.JS, Sequelize, Express, MySQL, PHP, React, Vue
+
 My full portfolio can be seen at: <a href="https://www.javigamez.eu/">javigamez.eu</a>
 
